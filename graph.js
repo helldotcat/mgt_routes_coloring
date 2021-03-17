@@ -57,5 +57,10 @@ var options = {
   nodes: {
     shape: "circle",
   },
+  edges: {
+  	color: {
+  		inherit: "both"
+  	}
+  }
 };
 var network = new vis.Network(container, data, options);
