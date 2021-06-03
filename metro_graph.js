@@ -12,7 +12,7 @@ var options = {
   	color: {
   		inherit: "both"
   	},
-  	selectionWidth: 5,
+  	selectionWidth: 8,
   },
   layout: {
     randomSeed: 191006,    // Optional; insert your value here
